@@ -8,6 +8,7 @@
 - html自学网
 - 持续学习中
 - 专注于自学
+- docsify serve docs
 
 [开始阅读](#html)
 [GitHub](https://github.com/HEW666/xuexi)
